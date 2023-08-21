@@ -1,1 +1,2 @@
 # Employee-Management-System
+Employee management system project is based on Python Tkinter in which it is connected With Database . In this project with the help of tkinter i created Graphical User Interface(GUI) of employees of any organisation which takes personal information of employees and GUI is connected to the database which means after filling information then all the details are visible in the database so that we can modify our database according to our requirement.
